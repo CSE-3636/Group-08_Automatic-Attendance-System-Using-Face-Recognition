@@ -28,7 +28,7 @@ def tick():
 ###################################################################################
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'c191256@ugrad.iiuc.ac.bd' ")
+    mess._show(title='Contact us', message="Please contact us on : 'sabikun.nahernova@gmail.com' ")
 
 ###################################################################################
 
